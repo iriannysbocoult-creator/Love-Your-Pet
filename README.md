@@ -3,7 +3,6 @@
     Love You Pet
 </head>
 <body>
-   <BODY BGCOLOR="#6f42c1" alink="#FFFFFF" ></BODY>
     <h1><center>Tienda Para Mascotas</center></h1>
 <center>
 <img src="logo.jpeg" width="500"; height="300"; alt="Cargando"> 
@@ -32,7 +31,6 @@
         Love You Pet 2
     </head>
 <body>
-     <BODY BGCOLOR="#6f42c1" alink="#FFFFFF" ></BODY>
     <center><h1>Funciones y Servicios</h1></center>
 <center><li><h1>1. Servicios de pet sitting</h1>
 Si te gusta pasar tiempo con animales de compañía y quieres prestar un servicio a tu comunidad, montar un negocio de cuidado de mascotas a domicilio puede ser una buena idea. Según la Asociación Española de la Industria y el Comercio del Sector del Animal de Compañía, el 43 % de los hogares españoles tiene una mascota, así que tendrás un montón de clientes potenciales.
