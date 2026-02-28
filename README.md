@@ -1,6 +1,35 @@
 <html>
+<head>
+    Love You Pet
+</head>
+<body>
+   <BODY BGCOLOR="#6f42c1" alink="#FFFFFF" ></BODY>
+    <h1><center>Tienda Para Mascotas</center></h1>
+<center>
+<img src="logo.jpeg" width="500"; height="300"; alt="Cargando"> 
+<hr>
+
+<h2><i>...En esta tienda online encotraras diferentes opciones para tus mascotas...</i></h2>
+<hr> 
+<li>Servicios de pet sitting</li>
+<li>Nicho de comida para mascotas</li>
+<li>Abrigos y otras prendas de ropa para mascotas</li>
+<li>Servicio de paseo de perros</li>
+<li>Accesorios para mascotas</li>
+<li>Productos para el adiestramiento de mascotas</li>
+<li>Grooming de mascotas</li>
+<li>Cursos online sobre mascotas</li>
+<li>Guarderías de día para perros</li>
+<li>Recuerdos personalizados</li>
+
+<p>Estos son algunos productos y servicios que podras encontrar en nuestras pàgina.</p> 
+</body>
+
+</html>
+
+<html>
     <head>
-        <title>Love You Pet 2</title>
+        Love You Pet 2
     </head>
 <body>
      <BODY BGCOLOR="#6f42c1" alink="#FFFFFF" ></BODY>
@@ -69,10 +98,27 @@ Los retratos de mascotas son un tipo de producto personalizado muy popular, pero
         <td>3115342998</td>
     </tr>
 </table> </center>
-<br> <center>
-<p>Para volver a la pagina oficial</p>
-<A HREF="file:///C:/Users/Estudiantes/Downloads/no%20se%202/.HTML"> Principal</A>
-<br>
-<p>Para ir a llenar tus Datos</p>
-<a href="file:///C:/Users/Estudiantes/Downloads/no%20se%202/tercerapagina/.html"> Ingresar Datos</a></center>
+</html>
+<html>
+<head>
+    Love You Pet 3
+    <IMG SRC="logo.jpeg" ALIGN="top"  width="400" height="200">
+    <IMG SRC="logo.jpeg" ALIGN="right" width="400" height="200">
+</head>
+<body>
+    
+   Ingresa Tus Datos
+<center><FORM ACTION="mailto:iriannysbocoult@gmail.com" METHOD="POST" ENCTYPE="TEXT/PLAIN">
+    <h3>Nombre y Apellido</h3>
+    <INPUT TYPE="TEXT" NAME="Nombre_Apellido" SIZE="10" MAXLENGTH="32">
+    <h3>Direcciòn</h3>
+    <INPUT TYPE="TEXT" NAME="Direcciòn" SIZE="10" MAXLENGTH="100">
+    <h3>Telefono</h3>
+    <INPUT TYPE="TEXT" NAME="Telefono" SIZE="10" MAXLENGTH="15">
+    <P><INPUT TYPE="submit" VALUE="Enviar datos"></P>
+     <p><INPUT TYPE="reset" VALUE="Borrar datos"></P>
+    </center>
+
+</body>
+
 </html>
