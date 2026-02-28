@@ -1,8 +1,6 @@
 <html>
     <head>
         <title>Love You Pet 2</title>
-<IMG SRC="logo.jpeg" ALIGN="top"  width="400"; height="200">
-<IMG SRC="logo.jpeg" ALIGN="right" width="400"; height="200">
     </head>
 <body>
      <BODY BGCOLOR="#6f42c1" alink="#FFFFFF" ></BODY>
