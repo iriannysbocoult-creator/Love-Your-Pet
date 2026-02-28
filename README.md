@@ -5,8 +5,6 @@
 <body>
     <h1><center>Tienda Para Mascotas</center></h1>
 <center>
-<img src="logo.jpeg" width="500"; height="300"; alt="Cargando"> 
-<hr>
 
 <h2><i>...En esta tienda online encotraras diferentes opciones para tus mascotas...</i></h2>
 <hr> 
@@ -100,8 +98,6 @@ Los retratos de mascotas son un tipo de producto personalizado muy popular, pero
 <html>
 <head>
     Love You Pet 3
-    <IMG SRC="logo.jpeg" ALIGN="top"  width="400" height="200">
-    <IMG SRC="logo.jpeg" ALIGN="right" width="400" height="200">
 </head>
 <body>
     
